@@ -1,0 +1,4 @@
+crewai
+groq
+langchain-groq
+python-dotenv
